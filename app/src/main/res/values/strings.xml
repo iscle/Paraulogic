@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Paraulògic</string>
+
+    <string name="too_short">Massa curt</string>
+    <string name="already_exists">Ja hi és</string>
+    <string name="middle_letter_missing">Falta la lletra del mig</string>
+    <string name="incorrect_letters">Lletres incorrectes</string>
+    <string name="incorrect">Incorrecte</string>
+    <string name="game_over">L\'enhorabona! Has trobat tots els mots possibles. Gràcies per jugar-hi.</string>
+    <string name="word">paraula</string>
+    <string name="words">paraules</string>
+    <string name="level">Nivell</string>
+    <string name="score">Puntuació:</string>
+    <string name="level_up_1">Et falta poc per pujar de nivell!</string>
+    <string name="level_up_2">Et falta molt poc per pujar de nivell!</string>
+    
+</resources>
